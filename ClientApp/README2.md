@@ -1,0 +1,9 @@
+- install node - https://nodejs.org/en/download/
+- install yarn - https://yarnpkg.com/latest.msi
+- install dotnet core - https://dotnet.microsoft.com/download
+- install vscode - https://code.visualstudio.com/docs/?dv=win64user
+- https://medium.com/@auchenberg/live-edit-and-debug-your-react-apps-directly-from-vs-code-without-leaving-the-editor-3da489ed905f
+- https://medium.com/@ariel.salem1989/adding-sass-to-create-react-app-w-o-ejecting-e32ea744bec2
+  - then just rename app.css to app.scss
+- scss modules: https://blog.bitsrc.io/how-to-use-sass-and-css-modules-with-create-react-app-83fa8b805e5e
+- 

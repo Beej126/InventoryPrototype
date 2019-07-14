@@ -1,0 +1,36 @@
+﻿/* https://blog.bitsrc.io/how-to-use-sass-and-css-modules-with-create-react-app-83fa8b805e5e */
+
+.inventoryForm {
+  margin-top: 2em;
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: 300px 450px;
+
+  form {
+    grid-column: 1 / 2;
+    
+    input, button {
+      margin-bottom: 0.5em;
+    }
+    /*
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+
+    label {
+      grid-column: 1 / 2;
+    }
+
+    input,
+    button {
+      grid-column: 2 / 3;
+      position: unset !important;
+      margin-left: unset !important;
+    }
+    */
+  }
+
+  section {
+    grid-column: 2 / 3;
+  }
+}
